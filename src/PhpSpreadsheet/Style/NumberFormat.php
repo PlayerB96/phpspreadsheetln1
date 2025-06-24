@@ -86,6 +86,7 @@ class NumberFormat extends Supervisor
     ];
 
     const FORMAT_CURRENCY_USD_INTEGER = '$#,##0_-';
+    const FORMAT_CURRENCY_SOL_SIMPLE = '"S/ "#,##0.00_-';
     const FORMAT_CURRENCY_USD = '$#,##0.00_-';
     const FORMAT_CURRENCY_EUR_INTEGER = '#,##0_-[$€]';
     const FORMAT_CURRENCY_EUR = '#,##0.00_-[$€]';
